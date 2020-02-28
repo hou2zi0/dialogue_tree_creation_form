@@ -1,0 +1,20 @@
+#dialogue {
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #66ffff;
+    padding: 1em 1em 1em 1em;
+}
+
+.node {
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    background-color: #6666ff;
+}
+
+.option {
+    margin-left: 2em;
+    margin-bottom: 1em;
+    background-color: #66ff66;
+}
